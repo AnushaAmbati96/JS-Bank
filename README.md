@@ -1,4 +1,4 @@
-# JS-Bank
+# JS-Bank-power BI
 Analyze the bank details and understand the customer trend
 
 Steps taken:
